@@ -21,6 +21,6 @@ public class App
                 zliczanie++;
             }
         }
-        System.out.println(zliczanie);
+        System.out.println("Liczba " + szukanaWartosc + " wystepuje " + zliczanie + " razy.");
     }
 }
